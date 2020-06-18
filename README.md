@@ -1,4 +1,4 @@
-# :eyes: :camera Project_Python_Instagram_Macro:japanese_goblin:
+# :eyes:Project_Python_Instagram_Macro:japanese_goblin:
 
 
 Python 기반의 selenium(feat : Chrome Driver)을 사용하여 인스타그램에 로그인하고, 원하는 
@@ -14,11 +14,13 @@ Python 기반의 selenium(feat : Chrome Driver)을 사용하여 인스타그램�
   - IDE Tool :[:computer : Pychram](#running-the-tests)https://www.jetbrains.com/
   - package Manger:[: snake:Anaconda](#deployment)https://www.anaconda.com/
   - Using Package :[requests, selenium , beautifulsoup4, time , random](#built-with)
-  - using webDriver: [:chrome driver](#contributing)https://chromedriver.chromium.org/downloads
-## : pycharm content
-  - 
-  -
-  -
+  - using webDriver: [:chrome driver](use the same vresion as the Chrome browser version you use!)(#contributing)https://chromedriver.chromium.org/downloads
+
+# :honeybee:Repository structure description
+1. practice
+  - chapter01_crawl
+  - chapter02_webdriver
+  - chapter03_selenium_ crawl
   -
 
   
