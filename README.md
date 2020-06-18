@@ -11,8 +11,8 @@ Python 기반의 selenium(feat : Chrome Driver)을 사용하여 인스타그램�
 
 
   - Language: [:crocodile : Python 3.7](#getting-started)https://www.python.org/
-  - IDE Tool :[:computer : Pychram](#running-the-tests)https://www.jetbrains.com/
-  - package Manger:[: snake:Anaconda](#deployment)https://www.anaconda.com/
+  - IDE Tool :[:computer: Pychram](#running-the-tests)https://www.jetbrains.com/
+  - package Manger:[:snake:Anaconda](#deployment)https://www.anaconda.com/
   - Using Package :[requests, selenium , beautifulsoup4, time , random](#built-with)
   - using webDriver: [:chrome driver](use the same vresion as the Chrome browser version you use!)(#contributing)https://chromedriver.chromium.org/downloads
 
