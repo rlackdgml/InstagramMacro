@@ -10,7 +10,7 @@ Python 기반의 selenium(feat : Chrome Driver)을 사용하여 인스타그램�
 ## : heavy_check_mark:Developer Environment
 
 
-  - Language: [:crocodile : Python 3.7](#getting-started)https://www.python.org/
+  - Language: [:crocodile: Python 3.7](#getting-started)https://www.python.org/
   - IDE Tool :[:computer: Pychram](#running-the-tests)https://www.jetbrains.com/
   - package Manger:[:snake:Anaconda](#deployment)https://www.anaconda.com/
   - Using Package :[requests, selenium , beautifulsoup4, time , random](#built-with)
